@@ -29,7 +29,7 @@ public class HomeController {
 	private List<String> s3keys;
 	private String selectedKey = "";
 	private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
-	
+	//motko bosko nukleorno
 	/**
 	 * Simply selects the home view to render by returning its name.
 	 */
